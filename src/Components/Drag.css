@@ -3,6 +3,7 @@
     height: 50vh;
     /* border:1px solid red; */
     margin: auto;
+    margin-top: 20vh;
     display: flex;
     gap: 20px;
     display: grid;
