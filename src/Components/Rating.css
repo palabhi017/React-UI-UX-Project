@@ -1,0 +1,13 @@
+.star-rating{
+    width: 20%;
+    margin: auto;
+    margin-top: 100px;
+    gap: 10px;
+    border: 1px solid tomato;
+    border-radius: 10px;
+    padding: 30px;
+}
+h2{
+    text-align: center;
+    color: teal;
+}

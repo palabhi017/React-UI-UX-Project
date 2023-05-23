@@ -1,0 +1,23 @@
+.maindiv{
+    width: 30%;
+    height: 50vh;
+    /* border:1px solid red; */
+    margin: auto;
+    display: flex;
+    gap: 20px;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-template-rows: repeat(2,1fr);
+}
+.maindiv>div{
+   border-radius: 5px;
+    border: 2px solid #999;
+}
+#image{
+    height: 100%;
+    background-image: url("../Images/image-fisheye.jpg");
+    background-size: cover;
+}
+.hover{
+    background-color: skyblue;
+}
